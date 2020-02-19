@@ -1,0 +1,17 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    vertical-align: text-bottom;
+}
+
+tr[data-href] {
+    cursor: pointer;
+}
+
+.nav-pills {
+    color: #708;
+}
